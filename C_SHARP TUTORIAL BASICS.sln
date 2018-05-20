@@ -113,6 +113,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticVarApplication", "Sta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticVarApplication1", "StaticVarApplication1\StaticVarApplication1.csproj", "{5803A49F-1749-4CCE-BD58-0F0BF817E7EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceApplication", "InheritanceApplication\InheritanceApplication.csproj", "{9F22C388-6C3B-4C4E-B67B-2B0A58F38337}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -339,6 +341,10 @@ Global
 		{5803A49F-1749-4CCE-BD58-0F0BF817E7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5803A49F-1749-4CCE-BD58-0F0BF817E7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5803A49F-1749-4CCE-BD58-0F0BF817E7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F22C388-6C3B-4C4E-B67B-2B0A58F38337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F22C388-6C3B-4C4E-B67B-2B0A58F38337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F22C388-6C3B-4C4E-B67B-2B0A58F38337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F22C388-6C3B-4C4E-B67B-2B0A58F38337}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
